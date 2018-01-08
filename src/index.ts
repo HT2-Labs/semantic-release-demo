@@ -1,2 +1,3 @@
-// tslint:disable-next-line:no-console
+// tslint:disable:no-console
 console.log('hello');
+console.log('world');
